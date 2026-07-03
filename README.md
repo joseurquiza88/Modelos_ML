@@ -1,42 +1,57 @@
-# Prácticas de Machine Learning 
-(Notebooks en proceso 🚧🧠)
+# 🧠 Prácticas de Machine Learning (en desarrollo 🚧)
 
-Este repositorio reúne distintas prácticas realizadas en el marco del curso de Machine Learning de Talento Tech (Gobierno de la Ciudad de Buenos Aires).
+Este repositorio reúne distintas prácticas de Machine Learning aplicadas principalmente sobre el dataset **Ames Housing**, junto con otros datasets utilizados con fines de aprendizaje.
 
-Los ejercicios  forman parte del proceso de aprendizaje, donde voy aplicando los conceptos vistos en clase sobre distintos datasets.
-
+El objetivo es explorar y poner en práctica distintas técnicas de análisis de datos, preprocesamiento y modelado predictivo, recorriendo el flujo completo de un proyecto de data science.
 
 ---
 
-## 🎯 Objetivo del curso
+## 📊 Contenido del repositorio
 
-El curso está orientado al desarrollo de modelos predictivos utilizando técnicas de análisis de datos y aprendizaje automático.
+En este espacio se desarrollan y documentan distintas etapas del pipeline de Machine Learning:
 
-A lo largo de la cursada se trabajan temas como:
-- Preprocesamiento de datos  
-- Modelos de regresión  
-- Problemas de clasificación  
-- Técnicas de clustering  
-- Validación y evaluación de modelos  
-
+- 🔹 Ingesta y exploración inicial de datos  
+- 🔹 Análisis exploratorio (EDA)  
+- 🔹 Tratamiento de valores faltantes y variables categóricas  
+- 🔹 Feature engineering  
+- 🔹 Modelos de regresión y clasificación  
+- 🔹 Evaluación y comparación de modelos  
+- 🔹 Experimentación con distintos algoritmos (KNN, árboles de decisión, etc.)
 
 ---
 
-## 💡 Sobre este repositorio
+## 🧪 Modelos y técnicas exploradas
 
-Este espacio funciona como una recopilación de prácticas donde:
+Durante el desarrollo de las prácticas se han aplicado distintos enfoques, entre ellos:
 
-- Aplico los conceptos vistos en el curso  
-- Trabajo con distintos datasets para afianzar los contenidos  
-- Exploro diferentes enfoques y modelos  
+- Regresión lineal  
+- K-Nearest Neighbors (KNN)  
+- Árboles de decisión  
+- Separación train/test y validación de modelos  
+- Métricas de evaluación de desempeño  
 
+El objetivo es comprender el comportamiento de cada modelo y su sensibilidad a diferentes transformaciones de los datos.
 
 ---
 
 ## 🛠️ Herramientas utilizadas
 
-- Python (Jupyter Notebook)  
+- Python  
 - Pandas y NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
+- Jupyter Notebooks  
 - GitHub  
+
+---
+
+## 📌 Estado del proyecto
+
+🚧 En constante desarrollo y mejora.  
+Se irán incorporando nuevas técnicas, modelos y optimizaciones a medida que avance el aprendizaje.
+
+---
+
+## ❤️ Créditos
+
+Proyecto desarrollado utilizando como base las herramientas y conocimientos del curso de **Talento Tech** ❤️
